@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01- heepStack", "01- heepSt
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-pointer arithmetic", "02-pointer arithmetic\02-pointer arithmetic.vcxproj", "{2C6D7ACC-9642-4FEC-AEB9-A8FD5D57BA0E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03 - references", "03 - references\03 - references.vcxproj", "{062123DC-4C19-4D8C-B779-16C6AE99DB7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{2C6D7ACC-9642-4FEC-AEB9-A8FD5D57BA0E}.Release|x64.Build.0 = Release|x64
 		{2C6D7ACC-9642-4FEC-AEB9-A8FD5D57BA0E}.Release|x86.ActiveCfg = Release|Win32
 		{2C6D7ACC-9642-4FEC-AEB9-A8FD5D57BA0E}.Release|x86.Build.0 = Release|Win32
+		{062123DC-4C19-4D8C-B779-16C6AE99DB7C}.Debug|x64.ActiveCfg = Debug|x64
+		{062123DC-4C19-4D8C-B779-16C6AE99DB7C}.Debug|x64.Build.0 = Debug|x64
+		{062123DC-4C19-4D8C-B779-16C6AE99DB7C}.Debug|x86.ActiveCfg = Debug|Win32
+		{062123DC-4C19-4D8C-B779-16C6AE99DB7C}.Debug|x86.Build.0 = Debug|Win32
+		{062123DC-4C19-4D8C-B779-16C6AE99DB7C}.Release|x64.ActiveCfg = Release|x64
+		{062123DC-4C19-4D8C-B779-16C6AE99DB7C}.Release|x64.Build.0 = Release|x64
+		{062123DC-4C19-4D8C-B779-16C6AE99DB7C}.Release|x86.ActiveCfg = Release|Win32
+		{062123DC-4C19-4D8C-B779-16C6AE99DB7C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

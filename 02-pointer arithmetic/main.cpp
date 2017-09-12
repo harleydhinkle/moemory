@@ -34,7 +34,15 @@ void arrReversal(int * arr, int size)
 }
 void cstrReversal(char * arr, int size) 
 {
-
+	int len = 0;
+	for (int i = 0 ; i < size; i++) 
+	{
+		if (*(arr + i) == '\0') { break; }
+		len++;
+	}
+	for (int i = 0; i < size; i++) 
+	{
+	}
 }
 float arrayAvg(int * arr, int size) 
 {
