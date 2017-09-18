@@ -23,6 +23,9 @@
     <Text Include="text.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="badguys.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="entity.h">
